@@ -1,0 +1,10 @@
+# Environnement virtuel
+env/
+
+# Fichiers volumineux
+*.csv
+/data/raw/*
+/output/*
+
+# VS Code
+.vscode/
